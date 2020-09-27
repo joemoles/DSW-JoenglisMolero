@@ -196,3 +196,16 @@ justify-content: space-between;
     margin: 0;
     padding: 1rem 0 3rem 0;
 }
+
+.contenedor-fase1 {
+    background-color: #333333;
+    margin: 0;
+    color:#ffffff;
+    font-size: 3rem ;
+    
+}
+
+.contenedor-fase1 a{
+    color: #ffffff;
+    
+}
