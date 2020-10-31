@@ -442,10 +442,4 @@ text-align: center;
     flex-wrap: wrap;
   
 }
-.contenido-so {
-    margin-bottom: 3rem;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
 
