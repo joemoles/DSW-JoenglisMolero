@@ -434,3 +434,18 @@ text-align: center;
     }
     
 }
+
+.contenido-widget {
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  
+}
+.contenido-so {
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
