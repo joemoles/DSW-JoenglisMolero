@@ -87,6 +87,11 @@ h4 {
 
 
 /*Header*/
+
+.site-header {
+    background-color: #333333;
+    padding: 1rem 0 3rem 0;
+}
 .site-header.inicio {
     background-color: #333333;
     padding: 0 0 3rem 0;
@@ -301,3 +306,4 @@ text-align: center;
     justify-content: end;
    
 }
+
